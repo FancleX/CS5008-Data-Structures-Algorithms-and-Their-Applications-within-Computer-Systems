@@ -1,0 +1,13 @@
+eat sleep
+eat exercise
+eat walkdog
+exercise relax
+hangout classTime
+throwTrash assignment
+assignment teaTime
+teaTime homework
+homework cook
+homework entertain
+homework fitness
+fitness shower
+shower sleep
